@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @PawanPreet8218
-- 👀 I’m interested in Artificial Intellegence
-- 🌱 I’m currently learning Python at ergenious Technology Rajpura
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Hi, I’m Pawanpreet Singh
+- 👀 I’m interested in Artificial Intellegence with ML/NLP learning.
+- 🌱 I’m currently learning AI/ML Python at ergenious Technology Rajpura.
+- 💞️ I’m looking to join as intern with speacifed skill AI/ML.
+- 📫 Send mail given in the profile.
+- 😄 He/Him
 - ⚡ Fun fact: ...
 
 <!---
